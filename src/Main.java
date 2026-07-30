@@ -8,6 +8,5 @@ public class Main {
       String frase = sc.nextLine();
 
       System.out.println("A quantida de vogais dessa frase é "+Metodos.quantidadeVogais(frase));
-      System.out.println("Teste");
     }
 }
